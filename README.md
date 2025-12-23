@@ -128,6 +128,12 @@ scripts_organized/
 - R >= 4.3
 - Packages: dplyr, tidyr, ggplot2, glmnet, randomForest, ranger, xgboost, rpart
 
+## Authors
+
+*   **Xinmiao Wu** (Package Maintainer & R Development)
+*   **Yihan Zhou** (Machine Learning Model)
+*   **Chonghui Ni** (Web Application Integration)
+
 ---
 
 *Last updated: 2025-12-23*
