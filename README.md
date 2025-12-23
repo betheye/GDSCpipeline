@@ -130,8 +130,8 @@ scripts_organized/
 
 ## Authors
 
-*   **Xinmiao Wu** (Package Maintainer & R Development)
 *   **Yihan Zhou** (Machine Learning Model)
+*   **Xinmiao Wu** (Package Maintainer & R Development)
 *   **Chonghui Ni** (Web Application Integration)
 
 ---
