@@ -126,7 +126,7 @@ scripts_organized/
 ## Requirements
 
 - R >= 4.3
-- Packages: dplyr, tidyr, ggplot2, glmnet, ranger, xgboost, rpart
+- Packages: dplyr, tidyr, ggplot2, glmnet, randomForest, ranger, xgboost, rpart
 
 ---
 
